@@ -27,10 +27,14 @@ url: "https://www.waterlooaerial.com" # the base hostname & protocol for your si
 twitter_username: 
 github_username:
 
+avatar: assets/avatar-crop.jpg
+
 # Build settings
 remote_theme: chrisbobbe/jekyll-theme-prologue
 plugins:
   - jekyll-feed
+
+collections: [sections]
 
 # Exclude from processing.
 # The following items will not be processed, by default.
