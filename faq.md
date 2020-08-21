@@ -1,9 +1,13 @@
 ---
 title: FAQ
 layout: page
-order: 2
+order: 99
 icon: fa-question-circle
 ---
+
+**• Do you have insurance?**
+
+Yes! Depending on our workload, we keep ourselves (and you, and your clients) protected in one of two ways: We may obtain insurance on a per-flight basis, for example using a company like Thimble, or we may maintain an ongoing policy which covers us for all of our flights. Typical liability coverage is $1MM, but this can be increased when appropriate.
 
 **• Are you FAA certified?**
 
